@@ -153,8 +153,11 @@ The Linux operating system is structured in a tree-like hierarchy and is documen
 
 ![Linux file system](https://academy.hackthebox.com/storage/modules/18/NEW_filesystem.png)
 <sub><code>source: https://academy.hackthebox.com/module/18/section/94</code><sub>
+
 &nbsp;
+
 &nbsp;
+
 <table>
 <thead>
 <tr>
