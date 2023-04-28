@@ -156,8 +156,6 @@ The Linux operating system is structured in a tree-like hierarchy and is documen
 
 &nbsp;
 
-&nbsp;
-
 <table>
 <thead>
 <tr>
