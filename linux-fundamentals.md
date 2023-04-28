@@ -152,6 +152,7 @@ The Linux operating system can be broken down into layers:
 The Linux operating system is structured in a tree-like hierarchy and is documented in the [Filesystem Hierarchy Standard (FHS)](https://www.pathname.com/fhs/). Linux is structured with the following standard top-level directories:
 
 ![Linux file system](https://academy.hackthebox.com/storage/modules/18/NEW_filesystem.png)
+<sub><code>source: https://academy.hackthebox.com/module/18/section/94</code><sub>
 
 <table>
 <thead>
